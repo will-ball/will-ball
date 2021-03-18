@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/willball12" target="blank"><img src="https://img.shields.io/twitter/follow/willball12?logo=twitter&style=for-the-badge" alt="willball12" /></a> </p>
 
-I'm a Research Fellow at the [University of Aberdeen](https://www.abdn.ac.uk/people/william.ball/). I research Population Health and have interests in Health Inequalities and the measurement of Deprivation.
+I'm a Research Fellow at the [University of Aberdeen](https://www.abdn.ac.uk/people/william.ball/). I research Population Health using health records and administrative data sources. My main interests are in Health Inequalities and the measurement of Deprivation.
 
 - 🔭 I’m currently working on [the Health Foundation Networked Data Lab](https://www.health.org.uk/funding-and-partnerships/the-networked-data-lab)
 
-- 📝 I occasionally write articles on [https://wpball.com/#posts](https://wpball.com/#posts)
+- 📝 You can find some of my academic work on [ResearchGate](https://www.researchgate.net/profile/William-Ball-3) and I occasionally write [blog posts](https://wpball.com/#posts) too
 
 - 📫 Reach me **william.ball@abdn.ac.uk**
 
