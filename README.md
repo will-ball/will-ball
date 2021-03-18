@@ -17,8 +17,8 @@ I'm a Research Fellow at the [University of Aberdeen](https://www.abdn.ac.uk/peo
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/willball12" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/twitter--v2.png" alt="willball12" height="30" width="40" /></a>
-<a href="https://www.researchgate.net/profile/William-Ball-3" target="blank"><img align="center" src="https://img.icons8.com/windows/128/000000/researchgate.png" alt="William Ball" height="30" width="40" /></a>
+<a href="https://twitter.com/willball12" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/twitter--v2.png" alt="willball12" height="40" width="40" /></a>
+<a href="https://www.researchgate.net/profile/William-Ball-3" target="blank"><img align="center" src="https://img.icons8.com/windows/128/000000/researchgate.png" alt="William Ball" height="40" width="40" /></a>
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=will-ball&show_icons=true&locale=en" alt="will-ball" /></p>
