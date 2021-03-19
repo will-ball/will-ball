@@ -7,13 +7,13 @@
 
 I'm a Research Fellow at the [University of Aberdeen](https://www.abdn.ac.uk/people/william.ball/). I research Population Health using health records and administrative data sources. My main interests are in Health Inequalities and the measurement of Deprivation.
 
-- 🔭 I’m currently working on [the Health Foundation Networked Data Lab](https://www.health.org.uk/funding-and-partnerships/the-networked-data-lab)
+- 🔭 I’m currently working on [the Health Foundation Networked Data Lab](https://www.health.org.uk/funding-and-partnerships/the-networked-data-lab) and various other projects at [the Aberdeen Centre for Health Data Science](https://github.com/AbdnCHDS)
 
 - 📝 You can find some of my academic work on [ResearchGate](https://www.researchgate.net/profile/William-Ball-3) and I occasionally write [blog posts](https://wpball.com/#posts) too
 
 - 📫 Reach me **william.ball@abdn.ac.uk**
 
-- 📄 Find out more about me & my projects [https://wpball.com](https://wpball.com)
+- 📄 Find out more about me & my projects here: [https://wpball.com](https://wpball.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
