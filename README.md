@@ -17,7 +17,7 @@ I'm a Chancellor's Fellow at the Robert Gordon University. I'm a social epidemio
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/willball12" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/twitter--v2.png" alt="willball12" height="40" width="40" /></a>
+<a href="https://bsky.app/profile/wpball.com" target="blank"><img align="center" src="https://private-user-images.githubusercontent.com/1044309/327440568-f2ed020d-d601-4f1f-b107-b95cbb853dc1.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzIyNjk3OTcsIm5iZiI6MTczMjI2OTQ5NywicGF0aCI6Ii8xMDQ0MzA5LzMyNzQ0MDU2OC1mMmVkMDIwZC1kNjAxLTRmMWYtYjEwNy1iOTVjYmI4NTNkYzEucG5nP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI0MTEyMiUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNDExMjJUMDk1ODE3WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9YjgyZjY3NmM1YjJjMWE4OWY0MmEyZTQ1YTE1NjExOGIxOTY1ZDljODc0Zjc0ZmJmNzU0NWIxOTVkYzc0NjVlYSZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.3oOIi7NaU5DuCveMbfeBHCU4Ky3z0GWtt1Wfqidd7QM" alt="willball12" height="40" width="40" /></a>
 <a href="https://www.researchgate.net/profile/William-Ball-3" target="blank"><img align="center" src="https://img.icons8.com/windows/128/000000/researchgate.png" alt="William Ball" height="40" width="40" /></a>
 </p>
 
